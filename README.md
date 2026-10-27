@@ -1,6 +1,6 @@
 **SunPath IT Security Header Hardening**
 
-Documented WordPress security header hardening using `.htaccess`, includes verification
+Documented WordPress HTTP security header hardening using .htaccess, with before-and-after verification.
 
 Cybersecurity and maintaining a mindful, well-thought-out security posture are essential parts of maintaining reliable business infrastructure today. It's a non-negotiable. A website may be functioning well and loading quickly while still missing important browser security protections. This creates unnecessary exposure for the business and its website visitors. Performing routine technical maintenance helps identify and address these security gaps before they become larger problems.
 
